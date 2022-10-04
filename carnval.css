@@ -52,7 +52,7 @@
     display: block;
 }
 .login-form input[type="text"],.login-form input[type="password"] {
-	width: 100%;
+	width: 90%;
 	height: auto;
 	padding: 12px;
 	color: #000;
@@ -78,7 +78,7 @@
 }
 .btn-login-fb {
 	background: #1778f2;
-	width: 100%;
+	width: 90%;
 	height: auto;
 	margin-top: 10px;
 	margin-left: auto;
