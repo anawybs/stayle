@@ -185,7 +185,7 @@
     background:#ECEFF6;
     max-width:330px;
     height:auto;
-    position:fixes;
+    position:fixed;
     top:45%;
     left:50%;
     transform:translate(-50%,-50%);
